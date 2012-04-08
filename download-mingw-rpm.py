@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 #
-# Copyright (C) Maarten Bosmans 2011
+# Copyright (C) Maarten Bosmans 2011-2012
 #
-# The contents of this file are subject to the Mozilla Public License Version 1.1; you may not use this file except in
-# compliance with the License. You may obtain a copy of the License at http://www.mozilla.org/MPL/
+# This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0.
+# If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/.
 #
 from urllib.request import urlretrieve, urlopen
 from logging import warning, error
